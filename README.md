@@ -8,7 +8,7 @@ Playlist completa -> https://goo.gl/UyqfwB
 
 ## Motivação
 
-Acompanho há muito tempo o trabalho da Algaworks e acredito que vale a pena mostrar como é simples trabalhar com HTML5 e CSS3
+Acompanho há muito tempo o trabalho da Algaworks e acredito que vale a pena mostrar como é simples trabalhar com HTML5 e CSS3.
 
 ## Instalação
 
@@ -16,4 +16,4 @@ Dê fork, clone ou baixe o zip deste projeto para trabalhar melhor.
 
 ## Contribuidores
 
-Aqueles que quiserem melhorar e evoluir o código, fiquem a vontade
+Aqueles que quiserem melhorar e evoluir o código, fiquem a vontade.
